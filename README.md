@@ -8,5 +8,3 @@ Actualmente trabajo como Head of Product & Technology en [Alephoo](https://www.a
 
 Pueden encontrar mas información sobre mí en [mi website](https://iyaki.ar).
 
-<img src="https://iyaki.ar/images/logo.svg" alt="Logo de iyaki.ar, unos anteojos 3D de cartón blanco con celofán azul y rojo" width="100"/>
-iyaki
