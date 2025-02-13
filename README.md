@@ -6,5 +6,7 @@ Para esto me apoyo en tecnologías robustaz y maduras como PHP, Javascript, Go, 
 
 Actualmente trabajo como Head of Product & Technology en [Alephoo](https://www.alephoo.com/) y brindando servicios de consultoría en [Binks](https://be-binks.com/).
 
-Pueden encontrar mas información sobre mí en [mi website](https://iyaki.ar).
+En mi tiempo libre practico artes marciales, escribo en [mi blog](https://iyaki.ar/blog/) o desarrollo herramientas y servicios que me resulten útiles como [Simple Newsletter](https://simple-newsletter.com/).
+
+Pueden encontrar mas información sobre mí en [iyaki.ar](https://iyaki.ar).
 
