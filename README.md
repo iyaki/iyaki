@@ -1,11 +1,13 @@
-## Hola! 👋
+## Systems Architect & Product Engineer
 
-Soy Iván Yakimovicz, generalista con 10 años de experiencia en Product Engineering, DevOps y People management. Me especializo en la creación de soluciones cloud que ayuden a resolver necesidades reales.
+Designer and developer of cloud-native solutions, focused on balancing software architecture, infrastructure, and product delivery. Experienced in transitioning monolithic architectures into distributed and serverless models, applying Test-Driven Development (TDD) and Domain-Driven Design (DDD) practices.
 
-Aprovecho tecnologías robustaz y maduras como Go, Javascript, PHP, MySQL, PostgreSQL, HTML y CSS; junto con GNU Linux, herramientas de containerización y servicios como AWS o Cloudflare para realizar despliegues seguros y eficientes.
+Core Stack & Tools:
 
-Actualmente trabajo como Head of Product & Technology en [Alephoo](https://www.alephoo.com/) y brindando servicios de consultoría en [Binks](https://be-binks.com/).
+- Backend & Data: Go, PHP, Node.js, TypeScript, MySQL, PostgreSQL, Redis.
+- Architecture & Infra: AWS, Cloudflare, Docker, Devcontainers, GNU/Linux, CI/CD.
+- Modern SDLC: Spec-Driven Development, Agentic Loops, LLM tooling.
 
-En mi tiempo libre practico artes marciales, escribo en [mi blog](https://iyaki.ar/blog/) o desarrollo herramientas y servicios que faciliten mi trabajo.
+Currently leading product and technology at Alephoo and providing architectural consulting at Binks. In my free time, I build open-source tools, write on my [mi blog](https://iyaki.ar/blog/), or train in martial arts.
 
-Pueden encontrar mas información sobre mí en [iyaki.ar](https://iyaki.ar/).
+🌐 [iyaki.ar](https://iyaki.ar/)
