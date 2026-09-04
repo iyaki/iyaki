@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="630" viewBox="0 0 1280 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1420"/>
+      <stop offset="1" stop-color="#1a2433"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="630" fill="url(#bg)"/>
+  <g stroke="#2e4a6b" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M980 0 V210 H1120 V420 H1280"/>
+    <circle cx="900" cy="300" r="6" fill="#4fd1a5" stroke="none"/>
+    <circle cx="1120" cy="210" r="6" fill="#4fd1a5" stroke="none"/>
+    <circle cx="900" cy="480" r="6" fill="#4fd1a5" stroke="none"/>
+  </g>
+  <rect x="90" y="180" width="64" height="5" fill="#4fd1a5"/>
+  <text x="90" y="255" font-family="DejaVu Sans" font-size="64" font-weight="bold" fill="#f5f7fa">Iván Yakimovicz</text>
+  <text x="90" y="325" font-family="DejaVu Sans" font-size="38" fill="#8fb8e8">Enterprise Architect &amp; Product Engineer</text>
+  <text x="90" y="400" font-family="DejaVu Sans" font-size="26" fill="#a8b6c8">Domain-Driven Design · Scalable Systems · AI-Native Engineering</text>
+  <text x="90" y="540" font-family="DejaVu Sans" font-size="26" fill="#6f8299">github.com/iyaki</text>
+</svg>
